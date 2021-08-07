@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me> 
+- 📫 How to reach me> edg5mx@icloud.com
 
 <!---
 Emmdg/Emmdg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
